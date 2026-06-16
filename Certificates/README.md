@@ -1,5 +1,5 @@
 ## Certifications
 
-- ✅ Cisco Introduction to Cybersecurity ([Certificate](Cisco-Introduction-to-Cybersecurity.pdf))
+- ✅ Cisco Introduction to Cybersecurity ([Certificate](introduction-to-cybersecurity.png))
 - ⏳ Networking Basics (In Progress)
 - ⏳ Cisco CCST
