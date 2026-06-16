@@ -1,3 +1,5 @@
-# Certificates
+## Certifications
 
-This folder contains certificates earned during my learning journey in networking, cybersecurity, and IT support.
+- ✅ Cisco Introduction to Cybersecurity ([Certificate](Cisco-Introduction-to-Cybersecurity.pdf))
+- ⏳ Networking Basics (In Progress)
+- ⏳ Cisco CCST
