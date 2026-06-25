@@ -3,4 +3,4 @@
 - ✅ Cisco Introduction to Cybersecurity ([Certificate](introduction-to-cybersecurity.png))
 - ⏳ Networking Basics (In Progress)
 - ⏳ Cisco CCST
-- ✅ Cisco Introduction to modern AI
+- ✅ Cisco Introduction to modern AI ([Certificates/introduction-to-cybersecurity.png))
