@@ -12,3 +12,4 @@
 - ⏳ JavaScript Essentials
 - ⏳ C++ Essentials 1
 - ✅ Cisco Introduction to Modern AI ([Certificate](introduction-to-modern-ai.png))
+- ✅ IT Customer Support Basics ([Certificate](it-customer-support-basics.png))
