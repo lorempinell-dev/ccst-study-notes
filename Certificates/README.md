@@ -10,5 +10,5 @@
 - ⏳ Linux Essentials
 - ⏳ Python Essentials
 - ⏳ JavaScript Essentials
-- ⏳ Network Automation
+- ⏳ C++ Essentials 1
 - ✅ Cisco Introduction to Modern AI ([Certificate](introduction-to-modern-ai.png))
